@@ -1,4 +1,4 @@
-## Olá, mundo! <img align="center" alt="moshgui-Gif" height="100" width="110" src="https://tenor.com/view/fall-out-ok-fine-good-gif-12768423.gif"> 
+## Olá, mundo!
 - 🎥 Fã de Naruto e Breaking Bad
 - 👨🏾‍🎓 Aprendendo C# e MySQL
 - 🎮 Caixista que ama Fallout 4
