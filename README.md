@@ -1,6 +1,5 @@
 ## Olá, mundo!
 - 🎥 Fã de Naruto e Breaking Bad
-- 👨🏾‍🎓 Aprendendo C# e MySQL
 - 🎮 Caixista que ama Fallout 4
 
 <div align="center">
