@@ -1,6 +1,4 @@
 ## Olá, mundo!
-- 🎥 Fã de Naruto e Breaking Bad
-- 🎮 Caixista que ama Fallout 4
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
